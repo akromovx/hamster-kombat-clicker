@@ -7,7 +7,7 @@ def getTimestamp():
     return calendar.timegm(time.gmtime())
 
 
-AUTH_TOKEN = '1721345123662HGMiypvlQjqZ6eaGnLbCUcr0xiMiDWfG2Y16GHbfR7iB8PjMZOpI4lZ94I2Yis2q7047994595'
+AUTH_TOKEN = 'YOUR_TOKEN_HERE'
 CLICKER_COUNT = 1500
 
 API_URL = "https://api.hamsterkombatgame.io/clicker/tap"
