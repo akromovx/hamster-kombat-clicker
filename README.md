@@ -16,6 +16,8 @@
 
 ## Information
 
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/cardsmeows)
+
 [![Video](http://img.youtube.com/vi/PTdUmkT-yas/0.jpg)](http://www.youtube.com/watch?v=PTdUmkT-yas "Налог на незнание JavaScript - [Hamster Kombat]")
 
 Full script based on this video
